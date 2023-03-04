@@ -1,15 +1,17 @@
 .cart {
     display: flex;
+    width: 100%;
     flex-direction: column;
     justify-content: center;
     align-items: center;
   }
   
   .cartItem {
+    
     width: 700px;
     height: 250px;
     display: flex;
-  
+    background-color:rgb(173, 152, 152);
     align-items: center;
     box-shadow: 0px 3px 15px rgba(0, 0, 0, 0.2);
     border-radius: 25px;
@@ -21,7 +23,7 @@
   }
   
   .cartItem .description {
-    width: 100%;
+    width: 40%;
     font-size: 30px;
   }
   
@@ -40,4 +42,15 @@
     border-radius: 8px;
     margin: 10px;
     cursor: pointer;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+  }
+
+  .checkout {
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
   }

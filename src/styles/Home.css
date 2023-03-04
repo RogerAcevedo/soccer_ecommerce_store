@@ -1,0 +1,25 @@
+.w-100 {
+    width: 100% !important;
+    height: 80vh;
+    font-weight: 200;
+  }
+  
+  .card{
+    margin: 15px;
+    
+    padding: 5px;
+    border-radius: 15px;
+    
+}
+
+.nav {
+  margin: 25px;
+  border-style: none;
+  
+  border-radius: 15px;
+}
+
+.home {
+  width: 90%;
+  margin-left: 50px;
+}

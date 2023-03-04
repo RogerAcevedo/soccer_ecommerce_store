@@ -1,10 +1,10 @@
-import cleat1 from './assets/cleat1.webp'
-import cleats2 from './assets/cleats2.webp'
-import cleats3 from './assets/cleats3.webp'
-import cleats4 from './assets/cleats4.webp'
-import jersey1 from './assets/jersey1.webp'
-import jersey2 from './assets/jersey2.webp'
-import jersey3 from './assets/jersey3.webp'
+import cleat1 from './assets/cleat1.png'
+import cleats2 from './assets/cleats2.png'
+import cleats3 from './assets/cleats3.png'
+import cleats4 from './assets/cleats4.png'
+import jersey1 from './assets/jersey1.png'
+import jersey2 from './assets/jersey2.png'
+import jersey3 from './assets/jersey3.png'
 
 
 export const PRODUCTS = [

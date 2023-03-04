@@ -8,7 +8,7 @@ export const Footer = () => {
   return (
     <div className='footer'>
 
-      <div className='social'>
+      <div className='social' bg="light" variant='light'>
         
         <a href="https://tiktok.com/" target="_blank"><TiktokLogo size={32} /> </a> 
         <a href="https://twitter.com/" target="_blank"><TwitterLogo size={32} /> </a> 

@@ -2,28 +2,38 @@
     margin-top: 100px;
     text-align: center;
     font-size: 40px;
+
   }
   .products {
     width: 100%;
-    height: auto;
+    padding: 5px;
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
     place-items: center;
+    border: solid;
+    
   }
+
   
   .product {
     border-radius: 15px;
-    width: 300px;
-    height: 350px;
-    margin: 100px;
+    width: 200px;
+    height: 500px;
+    margin: 20px;
+    padding: 5px;
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    background-color: rgb(206, 216, 216);
+    border: solid;
+    box-shadow: 0 3px 20px rgba(170, 55, 55, 0.2);
+    
+    
   }
   
   .product img {
-    width: 400px;
+    width: 350px;
   }
   
   .product .description {
@@ -51,3 +61,9 @@
     color: white;
     cursor: pointer;
   }
+
+  .card {
+    border-radius: 80px;
+  }
+
+

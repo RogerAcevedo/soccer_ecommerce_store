@@ -1,4 +1,4 @@
-import 'bootswatch/dist/solar/bootstrap.min.css';
+import 'bootswatch/dist/sketchy/bootstrap.min.css';
 import './App.css';
 
 import { BrowserRouter as Router, Routes, Route} from "react-router-dom"
